@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 24 May 2026 13:29:07 at https://dianadahrepsi.lovable.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dianadahrepsi.lovable.app/ -O1 "C:\My Web Sites\DianaPsi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:29:24	Warning: 	Temporary Redirect for https://dianadahrepsi.lovable.app/signals/config/
+13:29:24	Warning: 	File has moved from https://dianadahrepsi.lovable.app/signals/config/ to /signals/config
+13:29:25	Error: 	"Not Found" (404) at link https://dianadahrepsi.lovable.app/t (from https://connect.facebook.net/en_US/fbevents.js)
+13:29:25	Error: 	"Not Found" (404) at link https://dianadahrepsi.lovable.app/e (from https://connect.facebook.net/en_US/fbevents.js)
+13:29:25	Warning: 	Temporary Redirect for https://dianadahrepsi.lovable.app/signals/plugins/
+13:29:25	Warning: 	File has moved from https://dianadahrepsi.lovable.app/signals/plugins/ to /signals/plugins
+13:29:26	Warning: 	Temporary Redirect for https://dianadahrepsi.lovable.app/schema.org/
+13:29:26	Warning: 	File has moved from https://dianadahrepsi.lovable.app/schema.org/ to /schema.org
+13:29:27	Error: 	"Not Found" (404) at link https://dianadahrepsi.lovable.app/t.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+13:29:27	Error: 	"Not Found" (404) at link https://dianadahrepsi.lovable.app/o (from https://connect.facebook.net/en_US/fbevents.js)
+13:29:27	Error: 	"Not Found" (404) at link https://dianadahrepsi.lovable.app/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+13:29:27	Error: 	"Not Found" (404) at link https://dianadahrepsi.lovable.app/signals/iwl.js?pixel_id= (from https://connect.facebook.net/en_US/fbevents.js)
+13:29:27	Error: 	"Not Found" (404) at link https://dianadahrepsi.lovable.app/n.dl (from https://connect.facebook.net/en_US/fbevents.js)
+13:29:27	Error: 	"Not Found" (404) at link https://dianadahrepsi.lovable.app/n.rl (from https://connect.facebook.net/en_US/fbevents.js)
+13:29:27	Error: 	"Error when decompressing" (-1) at link https://dianadahrepsi.lovable.app/signals/config (from https://dianadahrepsi.lovable.app/signals/config/)
+13:29:27	Error: 	"Error when decompressing" (-1) at link https://dianadahrepsi.lovable.app/signals/plugins (from https://dianadahrepsi.lovable.app/signals/plugins/)
+13:29:27	Error: 	"Error when decompressing" (-1) at link https://dianadahrepsi.lovable.app/schema.org (from https://dianadahrepsi.lovable.app/schema.org/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 23 links scanned, 8 files written (2348591 bytes overall) [1822405 bytes received at 91120 bytes/sec], 968856 bytes transferred using HTTP compression in 18 files, ratio 31%, 4.6 requests per connection
+(11 errors, 6 warnings, 0 messages)

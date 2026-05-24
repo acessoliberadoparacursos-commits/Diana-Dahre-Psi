@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dianadahrepsi.lovable.app	TRUE	/	FALSE	1999999999	__cf_bm	vwsrgz4fjsfs6GWelD2h3FCFabF1uv2YechlD8rQidY-1779640146.3129919-1.0.1.1-RDZ6xSCP6QnAZYhhVlUKFj2FU93xwLteYMz_PtCiBe_ojJCjUPub6rmY4Dp_jBsXgJRlR7HwaC6KMT03rh.IDkpeUG.2Qgivvbl3J0xqZScQmQgYYyNlJjuySfQb42Qx
+lovable.app	TRUE	/	FALSE	1999999999	SameSite	None
+
